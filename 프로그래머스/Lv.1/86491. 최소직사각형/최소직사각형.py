@@ -9,3 +9,4 @@ def solution(sizes):
         if size[1] > y:
             y = size[1]
     return x  * y
+    
